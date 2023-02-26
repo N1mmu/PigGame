@@ -2,7 +2,7 @@
 
 Access it here :- https://n1mmu.github.io/PigGame/
 
-#Description
+# Description
 Its a fun little 2 player game where u have to score 100 points to win.
 
 Game rules:
